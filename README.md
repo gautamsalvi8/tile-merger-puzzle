@@ -1,3 +1,10 @@
+
+# 🎮 Tile Merger Puzzle - Screenshots
+
+## Gameplay Preview
+![Game Screenshot 1](https://github.com/gautamsalvi8/tile-merger-puzzle/blob/main/76e83d82-efa9-4e63-9e9b-c78b01911618.png)
+
+
 🔷 Tile Merger: A Level-Based 2048-Inspired Puzzle Game
 Welcome to Tile Merger, a strategic and visually appealing puzzle game inspired by the classic 2048—reimagined with level progression, targeted merging, and controlled tile flow.
 
