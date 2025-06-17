@@ -6,7 +6,7 @@
 
 
 🔷 Tile Merger: A Level-Based 2048-Inspired Puzzle Game
-Welcome to Tile Merger, a strategic and visually appealing puzzle game inspired by the classic 2048—reimagined with level progression, targeted merging, and controlled tile flow.
+Welcome to Tile Merger, a strategic and visually appealing puzzle game inspired by the classic 2048—reimagined with level progression, targeted merging, and controlled tile flow designed completely using Amazon Q CLI
 
 🎮 Game Concept
 Unlike traditional 2048, Tile Merger introduces a level-based objective system:
