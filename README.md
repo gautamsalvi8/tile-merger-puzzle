@@ -48,6 +48,8 @@ Designed for future web/mobile porting
 ## Gameplay Preview
 ![Game Screenshot 1](https://github.com/gautamsalvi8/tile-merger-puzzle/blob/main/76e83d82-efa9-4e63-9e9b-c78b01911618.png)
 
+> This project is inspired by tile-merging mechanics found in popular puzzle games.  
+> All assets, code, and design are original and developed for educational and non-commercial use.
 
 
 
