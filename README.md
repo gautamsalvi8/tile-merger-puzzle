@@ -42,6 +42,17 @@ Designed for future web/mobile porting
 ✅ Dynamic target calculation
 ✅ Dark/light board themes
 
+
+
+
 ## Gameplay Preview
 ![Game Screenshot 1](https://github.com/gautamsalvi8/tile-merger-puzzle/blob/main/76e83d82-efa9-4e63-9e9b-c78b01911618.png)
+
+
+
+
+🛡️ Disclaimer
+This game is not a commercial product and was built entirely for learning and educational purposes. While the mechanics may resemble other popular games on the Play Store (such as 2048 or its variants), this implementation is an original creation using Amazon Q CLI, with no direct copying of assets or source code.
+
+I do not claim any rights over any original games that inspired this project. All assets, logic, and artwork were either created from scratch or AI-generated specifically for this project.
 
