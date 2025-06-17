@@ -2,7 +2,7 @@
 # 🎮 Tile Merger Puzzle - Screenshots
 
 ## Gameplay Preview
-![Game Screenshot 1](https://github.com/gautamsalvi8/tile-merger-puzzle/blob/main/76e83d82-efa9-4e63-9e9b-c78b01911618.png)
+![Game Screenshot 1](https://github.com/gautamsalvi8/tile-merger-puzzle/blob/main/e62069e1-dbde-4a72-b92d-6a383a3a5a99.png)
 
 
 🔷 Tile Merger: A Level-Based 2048-Inspired Puzzle Game
@@ -41,3 +41,7 @@ Designed for future web/mobile porting
 ✅ Animated tile drops
 ✅ Dynamic target calculation
 ✅ Dark/light board themes
+
+## Gameplay Preview
+![Game Screenshot 1](https://github.com/gautamsalvi8/tile-merger-puzzle/blob/main/76e83d82-efa9-4e63-9e9b-c78b01911618.png)
+
